@@ -34,6 +34,7 @@ Mentorship and Partnerships
 • Mentorship with successful women in creative industries and entrepreneurship.
 • Collaboration with media, schools, women’s coalitions, and NGOs.
 • Joint events and community dialogues with local authorities.
+
 Expected Outcomes:
 • Increased access to knowledge and skills among girls and women.
 • More women earning income through creative industries.
