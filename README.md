@@ -2,12 +2,14 @@
 TajikHeritage is a socio-cultural initiative aimed at improving the socio-economic status of girls and women in Tajikistan through creative approaches,
 education, and economic empowerment. The project integrates art, technology, gender equality and entrepreneurship to build a sustainable platform
 for women’s self-expression and self-reliance.
+
 Project Goals:
 • Increase access to education and knowledge for girls and women.
 • Develop creative skills as tools for income and self-expression.
 • Challenge social stereotypes about women’s roles.
 • Promote well-being and leadership among young female activists.
 • Strengthen intergenerational learning between women and girls.
+
  Main Components and Activities:
 Educational & Creative Labs
 • Courses on human rights, gender equality, and leadership.
